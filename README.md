@@ -5,7 +5,7 @@ This command also require moremata, which can be installed by typing ssc install
 
 Acknowledgements 
 
-This command was translated from code belonging to Prof. Igor Viveiro Melo Souza, who graciouly allowed for its translation. Mata fucntion for fractionary differentiation was based on
+This command was translated from code belonging to Prof. Igor Viveiro Melo Souza, who graciouly allowed for its translation. Mata function for fractionary differentiation was based on
     freely distributed code in the fracdiff package in R. Special thanks to Jorge Perez, whose discret fourier transform allowed for the fast translation of this code and also gave his
     authorization for use. 
 
