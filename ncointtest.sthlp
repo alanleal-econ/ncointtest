@@ -71,6 +71,6 @@ of one series over the other, with 0<d_{1}<{it:d}<=1, that is, the two series sh
  
 {title:Acknowledgements} 
 
-{pstd} This command was translated from code belonging to Prof. Igor Viveiro Melo Souza, who graciouly allowed for its translation. Mata fucntion for fractionary differentiation was based on freely distributed code in the fracdiff package in R. Special thanks to Jorge Perez, whose discret fourier transform allowed for the fast translation of this code and also gave his authorization for use. 
+{pstd} This command was translated from code belonging to Prof. Igor Viveiro Melo Souza, who graciouly allowed for its translation. Mata function for fractionary differentiation was based on freely distributed code in the fracdiff package in R. Special thanks to Jorge Perez, whose discret fourier transform allowed for the fast translation of this code and also gave his authorization for use. 
 
 
