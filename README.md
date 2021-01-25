@@ -1,7 +1,7 @@
 # ncointtest
 ncointtest is a Stata implementation of the non-coointegration test, as developed by Souza et al (2018). More info about the test and its arguments can be found in the help file in this repository. 
-Installation can be done by downoading the .ado file in this repository and placing on your personal ado files in your main disk (or by running it before using the command).
-This command also require moremata, which can be installed by typing ssc install moremata on your terminal. 
+Installation can be done by downloading the .ado file in this repository and placing on your personal ado files in your main disk (or by running it before using the command).
+This command also requires moremata, which can be installed by typing ssc install moremata on your terminal. 
 
 Acknowledgements 
 
