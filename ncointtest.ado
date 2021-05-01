@@ -1,5 +1,12 @@
 *! ncointtest computes the non-cointegration test between two time series in the frequency domain, as in Souza et al (2018)
 *! v.1.0 January 19, 2021 Alan Leal (prof@alanleal-econ.com)
+
+* It's necessary installing the  mm_seq function from more_mata package!
+cap which moremata.hlp
+if _rc {
+ssc install moremata
+}
+
 program define ncointtest, rclass
 	version 16
 	syntax varlist(ts min=2 max=2) [,d(real 0) b(real 0.7) r(integer 3)]
